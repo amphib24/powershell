@@ -1,3 +1,7 @@
 # powershell
 
-Welcome to my PowerShell repo! This repo contains a few powershell scripts I have written for various projects and labs. My goal with this repo is to showcase my ability to use PowerShell for various task relevant to real world scenarios in cybersecurity. I hope you enjoy!
+Welcome to my PowerShell repository! This repo contains a few PowerShell scripts I have developed for various projects and labs. The scripts were developed through cybersecurity labs and hands-on projects, with the intention of demonstrating 
+applied learning in real-world scenarios common to cybersecurity environments
+
+# Disclaimer
+Any code demonstrated in this repository is for educational purposes only and is not intended to be used for illegal or malicious activity. 
