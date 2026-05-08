@@ -1,8 +1,10 @@
 # ADS (Alternative Data Stream) File Transfer PowerShell
 
 ## Description
-This is a script I wrote during a live lab during my Pentest+ studies to transfer the contents of a ADS file from a local machine to a remote attackbox. This was designed for educational purposes only and is not intended for illegal 
-or malicious use of any kind.
+This is a script I wrote during a live lab during my Pentest+ studies to transfer the contents of a ADS file from a local machine to a remote attackbox. 
+
+## Disclaimer
+This was designed for educational purposes only and is not intended for illegal or malicious use of any kind.
 
 ## Features
    - Reads hidden ADS content from a file
