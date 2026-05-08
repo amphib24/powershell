@@ -1,4 +1,4 @@
-# powershell
+# PowerShell Scripts Repository
 
 Welcome to my PowerShell repository! This repo contains a few PowerShell scripts I have developed for various projects and labs. The scripts were developed through cybersecurity labs and hands-on projects, with the intention of demonstrating 
 applied learning in real-world scenarios common to cybersecurity environments
