@@ -5,3 +5,14 @@ applied learning in real-world scenarios common to cybersecurity environments
 
 # Disclaimer
 Any code demonstrated in this repository is for educational purposes only and is not intended to be used for illegal or malicious activity. 
+
+# Projects
+<table>
+  <th>Projects</th>
+  <tr>
+    <td><a href = "https://github.com/amphib24/powershell/blob/main/ads-file-transfer/README.md">ADS File Transfer</a></td>
+  </tr>
+  <tr>
+    <td><a href = "https://github.com/amphib24/powershell/blob/main/port_scanner/README.md">Port Scanner></a></td>
+  </tr>
+</table>
