@@ -13,6 +13,6 @@ Any code demonstrated in this repository is for educational purposes only and is
     <td><a href = "https://github.com/amphib24/powershell/blob/main/ads-file-transfer/README.md">ADS File Transfer</a></td>
   </tr>
   <tr>
-    <td><a href = "https://github.com/amphib24/powershell/blob/main/port_scanner/README.md">Port Scanner></a></td>
+    <td><a href = "https://github.com/amphib24/powershell/blob/main/port_scanner/README.md">Port Scanner</a></td>
   </tr>
 </table>
